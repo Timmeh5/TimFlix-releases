@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "uiVersion": 1,
+  "theme": {
+    "accent": "#e50914",
+    "tileWidth": 128,
+    "heroHeight": 220,
+    "gridMin": 112,
+    "tabFont": 13
+  },
+  "labels": {
+    "home": "Home",
+    "movie": "Movies",
+    "series": "Series",
+    "tv": "TV",
+    "favorites": "Mijn lijst"
+  }
+}
